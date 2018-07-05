@@ -1,4 +1,4 @@
-#Laravel Danmaku
+# Laravel Danmaku
 
 [![GitHub license](https://img.shields.io/github/license/MoePlayer/laravel-danmaku.svg)](https://github.com/MoePlayer/laravel-danmaku/blob/master/LICENSE)
 
